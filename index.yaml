@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  keycloak-service:
+  - apiVersion: v2
+    appVersion: 26.4.7
+    created: "2025-12-26T22:01:50.525471+01:00"
+    description: A Helm chart for keycloak deployment
+    digest: b2c3c317311855936292b335eb5316d56ed0a87b1d1072cbae215f8847b41270
+    name: keycloak-service
+    type: application
+    urls:
+    - keycloak-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-26T22:01:50.523422+01:00"
